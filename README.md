@@ -33,7 +33,9 @@ Ferramenta para coletar e visualizar dados de partidas, como:
 Quer trocar ideias sobre vôlei e tecnologia? Me chama nas redes:
 
 - 📧 E-mail: *robertamikaelly1931@gmail.com*  
-- 📸 Instagram: [@r00brta](https://instagram.com/r00brta)  
+- 📸 Instagram: [@r00brta](https://instagram.com/r00brta)
+- [![Instagram](https://img.shields.io/badge/Instagram-r00brta.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/r00brta)
+ 
 
 ---
 
